@@ -12,7 +12,6 @@ Concluído.
 
 ##  Funcionalidades do projeto
 - `Crud do usuário`: No sistema, podemos cadastrar, listar, alterar e deletar um usuário.
-- 
 
 ##  Acesso ao projeto
 
